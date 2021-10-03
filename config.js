@@ -1,7 +1,7 @@
 {
 
   "host": "0.0.0.0",
-  "port": 7777,
+  "port": 8081,
 
   "keyLength": 10,
 
@@ -33,7 +33,7 @@
   },
 
   "storage": {
-    "type": "file"
+    "type": "postgres"
   },
 
   "documents": {
